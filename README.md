@@ -5,7 +5,7 @@
 <h1 align="center">pwpo</h1>
 
 <p align="center">
-  <i>minimal presence</i>
+  <i>dumb</i>
 </p>
 
 ---
