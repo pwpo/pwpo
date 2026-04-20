@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/736x/6f/f6/17/6ff61718944f5cd26a1bfc4acb0cad2e.jpg" width="100%" />
+</p>
 
-<!--
-**pwpo/pwpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">pwpo</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>minimal presence</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://discord.com/users/gradatory">discord</a> •
+  <a href="https://t.me/debilitative">telegram</a> •
+  <a href="#">ogu: elasticized</a> •
+  <a href="#">uc: celebred</a>
+</p>
