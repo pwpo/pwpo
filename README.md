@@ -10,3 +10,9 @@
   <a href="https://oguser.com/member.php?action=profile&uid=7834707">oguser</a> •
   <a href="https://github.com/pwpo/valorant-injector">unknowncheats</a>
 </p>
+
+<p align="center">
+  <a href="https://livediscord.xyz/1445417551705149550">
+    <img src="https://livediscord.xyz/embed/1445417551705149550.png?transparent=true" />
+  </a>
+</p>
